@@ -1,6 +1,7 @@
 Flask
-scikit-learn=1.0.1
+sklearn
 numpy
 matplotlib
 seaborn
 pandas
+gunicorn
